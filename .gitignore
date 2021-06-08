@@ -1,0 +1,10 @@
+**/__pychache__
+
+venvlib
+
+bin/*
+lib64/*
+lib/*
+share/*
+lib64
+storage.db
